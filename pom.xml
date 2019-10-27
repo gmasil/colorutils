@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.headshotharp.color</groupId>
 	<artifactId>color-utils</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>ColorUtils</name>
 	<description>Provides color utilities</description>
 
